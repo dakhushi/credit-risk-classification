@@ -1,7 +1,3 @@
-# Module 12 Report Template
-
-## Overview of the Analysis
-
 **Purpose of the Analysis:**
 
 The purpose of this analysis is to evaluate the performance of a logistic regression model in predicting credit risk for a loan company. The analysis aims to assess how well the model identifies healthy loans (low-risk) and high-risk loans (likely to default), using a labeled dataset of historical loan data. The objective is to determine whether this model can be used to make informed lending decisions that minimize financial risk for the company while maximizing profitability.
